@@ -1,0 +1,4 @@
+.idea
+node_modules
+package-lock.json
+react-sep-2021.iml
