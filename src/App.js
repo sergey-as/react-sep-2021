@@ -1,8 +1,12 @@
+import Notebooks from './components/Notebooks/Notebooks';
+import Users from './components/Users/Users';
+
 const App = () => {
     return (
-        <div>
-            App
-        </div>
+        <>
+            <Notebooks/>
+            <Users/>
+        </>
     );
 };
 
